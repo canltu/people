@@ -7795,7 +7795,7 @@
     {
         "name": "Andrius Cibulskis",
         "bio": "<p>I am Platform/DevOps/SRE Engineer. Passionate about Kubernetes and all the CNCF technologies since 2017. My journey with technology began in the early days of computing, back when the 286 processor was cutting-edge. Exploring FreeBSD, Linux and the early days of the internet sparked my passion for technology, problem-solving, and innovation.</p>",
-        "company": "Surfshark",
+        "company": "Atviros Konsultacijos",
         "pronouns": "",
         "location": "Vilnius, Lithuania",
         "linkedin": "https://www.linkedin.com/in/cibulskis",
@@ -7810,6 +7810,11 @@
             "Golden-Kubestronaut"
         ],
         "slack_id": "D01FRUFPR5E",
+        "languages": [
+            "Lithuanian",
+            "English",
+            "Russian"
+        ],
         "image": "andrius-cibulskis.jpg"
     },
     {
